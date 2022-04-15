@@ -39,7 +39,7 @@ $(".button3").on("click", (function(){
         .animate({bottom : "350px"},1000);
     //Apparition du mot d'anniversaire
     $(".birthday").append("<div class='star'></div>");
-    $(".birthday").append("<p>Hi Janhavi , You have 1 unread important message !  <br/>( Have a special day  <a href='https://jan24birthday.github.io/color%20baloon%20fly%20happy-birthday-animation-main/index.html'> Click Me to open </a> )</p>");
+    $(".birthday").append("<p>Hi Janhavi , You have 1 unread important message !  <br/>( Have a special day  <a href='http://127.0.0.1:5500/color%20baloon%20fly%20happy-birthday-animation-main/index.html'> Click here to open </a> )</p>");
     $(".birthday").append("<div class='star'></div>");
 //Apparition de Super phil Bros
     $(".SuperPhil").delay(3200)
