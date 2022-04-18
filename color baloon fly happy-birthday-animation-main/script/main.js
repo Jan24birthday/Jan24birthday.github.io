@@ -7,14 +7,14 @@ const animationTimeline = () => {
   // const play = document.getElementById("audio");
   // play.autoplay();
   
-function play() {
+/*function play() {
   
   var audio = new Audio("audio1.mp3");
   console.log("hello");
   audio.play();
 }
 
-play();
+play();*/
 
   
   
