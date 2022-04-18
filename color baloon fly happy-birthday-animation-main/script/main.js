@@ -7,6 +7,16 @@ const animationTimeline = () => {
   // const play = document.getElementById("audio");
   // play.autoplay();
   
+function play() {
+  
+  var audio = new Audio("audio1.mp3");
+  console.log("hello");
+  audio.play();
+}
+
+play();
+
+  
   
 
   textBoxChars.innerHTML = `<span>${textBoxChars.innerHTML
